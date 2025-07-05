@@ -1,0 +1,9 @@
+myenv/
+temp/
+__pycache__/
+*.h5
+*.pkl
+*.keras
+*.log
+*.tmp
+.DS_Store
